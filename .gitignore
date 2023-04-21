@@ -1,0 +1,5 @@
+a.out
+test-decls
+*.o
+*.dwo
+*.zip
